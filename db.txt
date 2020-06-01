@@ -1,0 +1,7 @@
+structure i used
+
+{ "_id" : ObjectId("5ed4a76c420de3969fd33bee"), "name" : "kayal", "email" : "kayal@gmail.com", "phone" : 31241321, "items" : biscuits }
+
+please have that for test
+
+
